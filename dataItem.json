@@ -1,0 +1,32 @@
+[
+	{
+		"imgSrc": "banner1",
+		"title": "Jungle Phonics 1",
+		"desc": "CEFR Level : Pre-A1"
+	},
+	{
+		"imgSrc": "banner2",
+		"title": "Hang Out! 1 Student Book",
+		"desc": "CEFR Level : PreA-A1"
+	},
+	{
+		"imgSrc": "banner3",
+		"title": "Jungle Phonics 2",
+		"desc": "CEFR Level : Pre-A1"
+	},
+	{
+		"imgSrc": "banner4",
+		"title": "Sounds Great 2nd Edition 3",
+		"desc": "CEFR Level : Pre A1"
+	},
+	{
+		"imgSrc": "banner5",
+		"title": "Sounds Great 2nd Edition 2",
+		"desc": "CEFR Level : Pre A1"
+	},
+	{
+		"imgSrc": "banner6",
+		"title": "Hang Out! 3 Student Book",
+		"desc": "CEFR Level : A1-A2"
+	}
+]
